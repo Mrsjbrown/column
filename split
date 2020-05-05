@@ -1,0 +1,53 @@
+<html>
+    <head>
+        <title>split screen test</title>
+        
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+        
+        <link href="style.css" rel="stylesheet">
+    </head>
+    <style>
+        .leftside, .rightside {
+            height:100%;
+            width:100%;
+        }
+        .leftside{
+            background:gray
+        }
+        .rightside{
+            background-color:green
+    </style>
+        }
+    <body>
+        <div class="row">
+            <div class="col">
+                <div class="leftside"></div>
+                
+                5 best selling books in Amazon Kindle Store
+                <ol>
+                
+                    <li>#1. The Handmaid's Tale.</li>
+                    <li>#2. A Killer's Mind (Zoe Bentley Mystery Book 1</li>
+                    <li>#3. The 7 Habits of Highly Effective People: Powerful… ...</li>
+                    <li>#4. Harry Potter and the Sorcerer's Stone. .</li>
+                    <li>#5. Say You're Sorry (Morgan Dane Book 1)</li>
+                </ol>
+                
+            </div>
+            <div class="col">,
+                 <div class="rightside"></div>
+                5 favorite celebrites or athletes
+                <ol>
+                    <li>Michael Jackson</li>
+                    <li>Oprah</li>
+                    <li>Tom Hanks</li>
+                    <li>Tom Cruise</li>
+                    <li>Dwayne Johnson</li>
+                </ol>
+                        
+                
+            </div>
+            
+            </body>
+            </html>
+            
